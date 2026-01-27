@@ -1,0 +1,1 @@
+# Three spouses – logic programming
